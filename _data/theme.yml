@@ -97,7 +97,7 @@ bootswatch: cyborg
 base-font-size: 0.8em
 text-color: "#020840"
 link-color: "#789943"
-base-font-family: Betania Patmos GDL
+base-font-family: betania-patmos-gdl
 font-cdn: <link href="https://fonts.googleapis.com/css2?family=Betania+Patmos+GDL&display=swap" rel="stylesheet">
 
 # THEME ICONS [optional!]
