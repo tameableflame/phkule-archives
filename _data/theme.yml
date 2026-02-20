@@ -94,11 +94,11 @@ navbar-background: bg-danger
 bootswatch: quartz
 
 # THEME FONTS
-base-font-size: 0.2em
+base-font-size: 1.7em
 text-color: "#020840"
 link-color: "#789943"
-base-font-family: "Comic Sans MS"
-font-cdn: # <link href="https://fonts.googleapis.com/css2?family=Betania+Patmos+GDL&display=swap" rel="stylesheet">
+base-font-family: "Betania Patmos GDL"
+font-cdn: <link href="https://fonts.googleapis.com/css2?family=Betania+Patmos+GDL&display=swap" rel="stylesheet">
 
 # THEME ICONS [optional!]
 # cb-gh uses Bootstrap Icons, https://icons.getbootstrap.com/
