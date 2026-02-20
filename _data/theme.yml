@@ -91,14 +91,14 @@ navbar-background: bg-success
 # BOOTSWATCH THEMES
 # You can replace the standard Bootstrap theme with a Bootswatch (https://github.com/thomaspark/bootswatch) option
 # Enter one of the following options below: cerulean; cosmo; cyborg; darkly; flatly; journal; litera; lumen; lux; materia; minty; pulse; sandstone; simplex; sketchy; slate; solar; spacelab; superhero; united; yeti 
-bootswatch: cyborg
+bootswatch: spacelab
 
 # THEME FONTS
 base-font-size: 0.8em
 text-color: "#020840"
 link-color: "#789943"
-base-font-family: betania-patmos-gdl
-font-cdn: <link href="https://fonts.googleapis.com/css2?family=Betania+Patmos+GDL&display=swap" rel="stylesheet">
+base-font-family: "Comic Sans"
+font-cdn: # <link href="https://fonts.googleapis.com/css2?family=Betania+Patmos+GDL&display=swap" rel="stylesheet">
 
 # THEME ICONS [optional!]
 # cb-gh uses Bootstrap Icons, https://icons.getbootstrap.com/
