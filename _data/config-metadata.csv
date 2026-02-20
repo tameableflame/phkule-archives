@@ -1,15 +1,22 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
-date,Date Created,
 description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
+subject,Themes,true,
+language,Language,
+genre,Genre,true
+duration,Duration
+creator,Creator,true,
+castcrew,Cast & Crew,true,
+adviser,Thesis Adviser,true,
+date,Date,
+location,Location,
+latitude,Latitude,
+longitude,Longitude,
+source,Source Collection,true,
+identifier,Identifier,
 type,Type,
 format,Format,
+itemhistory,Item History
+link,File Name,,
 rights,Rights,
 rightsstatement,Rights Statement,,true
