@@ -1,9 +1,9 @@
 display_name,stub,dropdown_parent
 Bro,/
-Browse,/browse.html
-Subjects,/subjects.html
-Locations,/locations.html
-Map,/map.html
-Timeline,/timeline.html
-Data,/data.html
-About,/about.html
+Triangulate,/browse.html
+Individuals,/subjects.html
+Settings,/locations.html
+Explore,/map.html
+Beat,/timeline.html
+Regulus,/data.html
+DEATH,/about.html
