@@ -94,7 +94,7 @@ navbar-background: bg-danger
 bootswatch: quartz
 
 # THEME FONTS
-base-font-size: 1.7em
+base-font-size: 1.2em
 text-color: "#020840"
 link-color: "#789943"
 base-font-family: "Betania Patmos GDL"
